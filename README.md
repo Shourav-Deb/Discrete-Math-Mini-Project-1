@@ -2,7 +2,8 @@
 
 <p2>   #  Hi there, this is a mini-project for discrete math. </p2>
 
-> Using C program, randomly generate a relational matrix (for representing relation on a set) with dimension n where n is the number of distinct elements on a set.
-> Verify the properties ..... so on...
+> Using C program randomly generate an undirected graph represented by adjacency matrix with n= 1000 vertices. (You may use rand function for this purpose).
+> Determine number of edges in the graph. Determine the degree of all vertices ..... so on...
+
 
 ![MasterHead](https://i.pinimg.com/originals/4f/41/4e/4f414eaf54616759534bedd2c68d18eb.jpg)
