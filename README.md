@@ -3,7 +3,7 @@
 <p2>   #  Hi there, this is a mini-project for discrete math. </p2>
 
 > Using C program randomly generate an undirected graph represented by adjacency matrix with n= 1000 vertices. (You may use rand function for this purpose).
-> Determine number of edges in the graph. Determine the degree of all vertices ..... so on...
+> Determine number ..... so on...
 
 
 ![MasterHead](https://i.pinimg.com/originals/4f/41/4e/4f414eaf54616759534bedd2c68d18eb.jpg)
